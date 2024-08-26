@@ -1,10 +1,10 @@
 # Data Alchemist: Transforming Chaos into Clarity 📊✨
 
 ## About Me
-Hi there! 👋 I'm a Data Analyst with a passion for turning raw information into gold. With two years of experience, I specialize in:
+Hi there! 👋 I'm a Data Analyst with a passion for:
 
 - 🔍 Uncovering hidden patterns in complex datasets
-- 💡 Generating actionable insights from data chaos
+- 💡 Generating actionable insights from data 
 - 🎨 Visualizing findings for clear communication
 
 ## Key Achievements
