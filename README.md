@@ -7,10 +7,6 @@ Hi there! 👋 I'm a Data Analyst with a passion for:
 - 💡 Generating actionable insights from data 
 - 🎨 Visualizing findings for clear communication
 
-## Key Achievements
-- 🏆 Increased Sales by 20%: Leveraged data insights to optimize marketing strategies.
-- 🎯 Predicted Customer Churn: Developed a machine learning model with 85% accuracy.
-
 ## My Approach
 I see each project as an intricate puzzle, combining:
 - 🧮 Analytical rigor
