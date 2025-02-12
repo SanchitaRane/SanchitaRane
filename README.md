@@ -13,7 +13,7 @@ I see each project as an intricate puzzle, combining:
 - 🎭 Creative problem-solving
 - 🔬 Meticulous attention to detail
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming & Query Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -31,7 +31,7 @@ I see each project as an intricate puzzle, combining:
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 
-## Beyond the Data
+## Beyond Data
 When I'm not immersed in datasets, you'll likely find me:
 - 📺 Binge-watching the latest trending shows
 - 🍿 Eagerly discussing plot twists and character arcs
